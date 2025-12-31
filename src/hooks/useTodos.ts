@@ -17,10 +17,21 @@ const fetchTodos = (): Promise<Todo[]> => {
 };
 
 // Hook pour récupérer les todos
-export const useTodos = () => {};
+export const useTodos = () => {
+  // const isLoading = fetchTodos();
+
+  // if(!isLoading) {
+  //   const isError = true;
+  //   return isError;
+  // }
+};
 
 // Hook pour ajouter un todo
-export const useAddTodo = () => {};
+export const useAddTodo = () => {
+  
+};
 
 // Hook pour basculer l'état completed d'un todo
-export const useToggleTodo = () => {};
+export const useToggleTodo = () => {
+
+};
