@@ -1,5 +1,10 @@
 # MES Extension : Debug Challenge 🐛
 
+- Solution for the file `hooks.ts` is adding types for the imports.
+- Solution for the file `filterSlice.ts` is removing brackets from the imports.
+-  
+
+
 **Durée :** 30 minutes  
 **Niveau :** Intermédiaire  
 
